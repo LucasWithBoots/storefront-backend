@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "driver": "postgres",
+    "user": {"ENV": "POSTGRES_USER"},
+    "password": {"ENV": "POSTGRES_PASSWORD"},
+    "database": "storefront"
+  }
+}
